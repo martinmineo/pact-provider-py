@@ -1,0 +1,6 @@
+flask[async]
+pact-python
+yarl
+pytest
+python-dotenv
+requests
